@@ -5,7 +5,7 @@ import Tutorials from './components/Tutorials';
 import Community from './components/Community';
 import Menu from './components/Menu';
 import ErrorPage from './components/ErrorPage';
-import { BrowserRouter, Route, Switch, Redirect } from 'react-router-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 class App extends Component {
 
