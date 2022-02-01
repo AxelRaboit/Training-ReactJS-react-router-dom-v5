@@ -44,3 +44,7 @@
 .navbar {
   padding-bottom: 0 !important;
 }
+
+.profile__image {
+  width: 200px;
+}
