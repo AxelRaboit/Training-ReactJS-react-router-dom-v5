@@ -21,7 +21,7 @@ function Menu() {
                             <NavLink className="nav-link" to="/community">Community</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink className="nav-link" to="/profile">Profile</NavLink>
+                            <NavLink className="nav-link" to="/users/:profileId">Profile</NavLink>
                         </li>
                     </ul>
                 </div>
